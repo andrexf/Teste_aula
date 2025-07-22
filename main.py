@@ -1,7 +1,7 @@
 print("=" * 30)
 def cumprimentar(nome):
     cumprimentar(nome) ("Bem-vindo à aula.")
-
+print(f"O teu nome em maiúsculas é: {nome.upper()}")
 print("Hoje vamos aprender Git")
 print("Olá turma do Python! Tudo ok?")
 print("Tudo bem!")
