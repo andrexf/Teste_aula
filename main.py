@@ -9,4 +9,7 @@ nome: str = input("Qual é o seu nome? ")
 print(f"Olá, {nome}!")
 idade = input("Quantos anos tens? ")
 print(f"{nome} tem {idade} anos.")
+gosta = input("Gostas de programar em Python? ")
+print(f"Resposta: {gosta}")
+
 print("=" * 30)
