@@ -1,4 +1,7 @@
-print(print("Olá turma do Python! Tudo ok?"))
+print("Hoje vamos aprender Git")
+print("Olá turma do Python! Tudo ok?")
 print("Tudo bem!")
 nome: str = input("Qual é o seu nome? ")
 print(f"Olá, {nome}!")
+idade = input("Quantos anos tens? ")
+print(f"{nome} tem {idade} anos.")
