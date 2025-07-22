@@ -12,5 +12,9 @@ idade = input("Quantos anos tens? ")
 print(f"{nome} tem {idade} anos.")
 gosta = input("Gostas de programar em Python? ")
 print(f"Resposta: {gosta}")
+if gosta.lower() == "sim":
+    print("Muito bem!")
+else:
+    print("está ok")
 print("Até à próxima.")
 print("=" * 30)
