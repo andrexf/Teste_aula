@@ -12,5 +12,5 @@ idade = input("Quantos anos tens? ")
 print(f"{nome} tem {idade} anos.")
 gosta = input("Gostas de programar em Python? ")
 print(f"Resposta: {gosta}")
-
+print("Até à próxima.")
 print("=" * 30)
